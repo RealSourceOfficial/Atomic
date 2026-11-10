@@ -1,7 +1,7 @@
 'use strict';
 
-import { neutron } from '@arlojay-studios/neutron-atomic'
-import { protonDB } from '@arlojay-studios/proton-atomic';
+import { neutron } from '@sourceofficial/neutron-atomic'
+import { protonDB } from '@sourceofficial/proton-atomic';
 
 /**
  * Init
