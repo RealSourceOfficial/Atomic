@@ -1,5 +1,5 @@
 # Atomic
-### [![CodeQL](https://github.com/arlojay-studios/Atomic/actions/workflows/codeql.yml/badge.svg)](https://github.com/arlojay-studios/Atomic/actions/workflows/codeql.yml)
+### [![CodeQL](https://github.com/RealSourceOfficial/Atomic/actions/workflows/codeql.yml/badge.svg)](https://github.com/RealSourceOfficial/Atomic/actions/workflows/codeql.yml)
 Typescript chatroom wrapper for [`neutron`](#neutron), [`proton`](#proton), and [`electron`](#electron).
 
 [//]: <build: installer, package, move packages to npm, ui>

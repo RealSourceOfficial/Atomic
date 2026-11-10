@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arlojay-studios/Atomic.git"
+    "url": "git+https://github.com/RealSourceOfficial/Atomic.git"
   },
   "keywords": [
     "P2P",
@@ -22,9 +22,9 @@
   "author": "Arlojay Studios",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arlojay-studios/Atomic/issues"
+    "url": "https://github.com/RealSourceOfficial/Atomic/issues"
   },
-  "homepage": "https://github.com/arlojay-studios/Atomic#readme",
+  "homepage": "https://github.com/RealSourceOfficial/Atomic#readme",
   "dependencies": {
     "@arlojay-studios/electron-atomic": "^0.0.9",
     "@arlojay-studios/neutron-atomic": "^0.0.11.1",

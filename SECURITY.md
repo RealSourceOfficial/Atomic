@@ -14,4 +14,4 @@ and provide as much information as possible so we can resolve the vulnerability 
 
 ### Pushing to a release branch
 
-Have a fork of one of our releases? Want to push it to a release? Create a [Pull Request](https://github.com/arlojay-studios/Atomic/compare) to the development branch with the release you'd like to target and we'll take a peek at it
+Have a fork of one of our releases? Want to push it to a release? Create a [Pull Request](https://github.com/RealSourceOfficial/Atomic/compare) to the development branch with the release you'd like to target and we'll take a peek at it
