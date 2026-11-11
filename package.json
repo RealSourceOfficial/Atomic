@@ -19,7 +19,7 @@
     "Social",
     "Chat"
   ],
-  "author": "Arlojay Studios",
+  "author": "RealSourceOfficial",
   "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/RealSourceOfficial/Atomic/issues"
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/RealSourceOfficial/Atomic#readme",
   "dependencies": {
     "@sourceofficial/electron-atomic": "^0.0.9",
-    "@sourceofficial/neutron-atomic": "^0.0.11.1",
+    "@sourceofficial/neutron-atomic": "^0.0.12",
     "@sourceofficial/proton-atomic": "^0.0.8",
     "tsx": "^4.7.0"
   },
